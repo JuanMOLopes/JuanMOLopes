@@ -13,6 +13,4 @@
 
 ## 📫 Como me encontrar
 
-- **Email:** seuemail@example.com
-- **LinkedIn:** [linkedin.com/in/seu-username](https://www.linkedin.com/in/seu-username)
-- **Portfólio:** [seu-portfolio.com](https://www.seu-portfolio.com)
+- **Email:** juan.oliiveira2007@gmail.com
