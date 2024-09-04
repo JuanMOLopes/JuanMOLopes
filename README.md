@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou o Juan!
 
-🎓 Atualmente estudante de **Desenvolvimento de Sistemas** no SENAI de Valinhos. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+🎓 Atualmente estudante de **Desenvolvimento de Sistemas** no SENAI. Apaixonado por tecnologia e programação, estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
 
 ## 🚀 Sobre mim
 
