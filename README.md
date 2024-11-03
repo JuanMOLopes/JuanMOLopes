@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** HTML, CSS
+- **Linguagens:** HTML, CSS, JavaScript
 - **Ferramentas:** VS Code, Git, GitHub
 
 ## 📫 Como me encontrar
