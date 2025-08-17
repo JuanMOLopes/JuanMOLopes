@@ -9,4 +9,4 @@
 
 ## 📫 Como me encontrar
 
-- **Email:** juan.oliiveira2007@gmail.com
+- **Email:** juanmolopes@gmail.com
