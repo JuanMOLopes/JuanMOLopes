@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** HTML, CSS, JavaScript, React
+- **Linguagens:** HTML, CSS, JavaScript, React, React Native
 - **Ferramentas:** VS Code, Git, GitHub
 
 ## 📫 Como me encontrar
